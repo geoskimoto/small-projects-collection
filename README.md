@@ -1,1 +1,1 @@
-# Collection of machine-learning, statistics, and other coursework projects.
+# Collection of machine-learning, statistics, GIS and other smaller projects.
